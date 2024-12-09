@@ -7,7 +7,7 @@ const success = document.getElementById('success')
 const btn = document.getElementById('btn')
 
 // const BASEURL = 'http://localhost:3000';
-const BASEURL = 'https://emailsubs.vercel.app/';
+const BASEURL = 'https://mailersubs.vercel.app/';
 let isLoading = false;
 
 form.addEventListener('submit', async(e) => {
